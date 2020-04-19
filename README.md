@@ -20,7 +20,3 @@ Do not hesitate to contact me! :)
 
 ATTITUDE IS THE KEY TO SUCCESS! 
 
-![Data Ninja][Father]
-
-[Father]: http://PatriciaVaquero.github.com/website/dataninja.jpg
-
