@@ -1,8 +1,13 @@
-## Welcome to my Project website!
+## **Welcome to my Project website!**
 
-First of all, let me introduce myself briefly. 
+_ABOUT ME_
 
-ABOUT ME
+Hello everyone out there! I'm Patricia Rodríguez Vaquero. I'm currently doing a Postgraduate Course about Big Data & Analytics at Universidad Carlos III of Madrid. While studying for my studies I'm also doing a internship as a Business Intelligence Analyst in Stratebi Business Solutions. In my spare time I really enjoy learning and reading from different resources. I'm very active in social networks because I'd like to be up to date in everything related to Data Science, Machine Learning, Deep Learning, Programming, Databases, New technologies, etc. 
+
+**You can reach me out in here:**
+
+Twitter: https://twitter.com/patri_vaquero_
+Linkedin: https://www.linkedin.com/in/patricia-rodr%C3%ADguez-vaquero-53425311a/
 
 Graduated in Business Management (with the Area of Specialization in Data Analytics) and oriented to the Business Analytics area. With the desire to not stop learning and with the aim of focusing my professional future in the area of DDDM (Data-Driven Decision Making), the data analysis in charge of converting the data set into key information for innovation and decision making in a dynamic environment, as it is today for any company, marked by the need for an integral vision of the business in order to always keep up with the constant opportunities required by the era of Digital Transformation.
 
