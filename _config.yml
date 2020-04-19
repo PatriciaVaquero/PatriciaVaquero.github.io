@@ -1,3 +1,4 @@
 theme: jekyll-theme-architect
-title: "GitHub Page of Patricia Rodríguez Vaquero"
-show_downloads: false
+gem "github-pages", group: :jekyll_plugins
+title: Patricia Rodríguez Vaquero 
+description: This website is dedicated to relate my Data Science Journey and to spread knowledge with others. I Hope you like the content!
