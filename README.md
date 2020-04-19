@@ -12,7 +12,7 @@ Wanna know more about me?
 
 **You can reach me out here:**
 
-[Twitter](https://github.com/PatriciaVaquero/PatriciaVaquero.github.io/https://twitter.com/patri_vaquero_/master/README.md)
+[Twitter](https://twitter.com/patri_vaquero_/master/README.md)
 
 Linkedin: https://www.linkedin.com/in/patricia-rodr%C3%ADguez-vaquero-53425311a/
 
