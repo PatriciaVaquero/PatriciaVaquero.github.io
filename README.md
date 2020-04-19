@@ -22,4 +22,5 @@ ATTITUDE IS THE KEY TO SUCCESS!
 
 ![Data Ninja][Father]
 
-[Father]: http://PatriciaVaquero.github.com/dataninja.jpg
+[Father]: http://PatriciaVaquero.github.com/website/dataninja.jpg
+
