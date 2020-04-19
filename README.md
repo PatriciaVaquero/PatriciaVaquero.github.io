@@ -1,6 +1,6 @@
 ### **Welcome to my Project website!**
 
-_ABOUT ME_
+_ABOUT ME_[^1]
 
 Hello everyone out there! I'm Patricia Rodríguez Vaquero. I'm currently doing a Postgraduate Course about Big Data & Analytics at Universidad Carlos III of Madrid. While studying for my studies I'm also doing a internship as a Business Intelligence Analyst in Stratebi Business Solutions. In my spare time I really enjoy learning and reading from different [resources](https://twitter.com/patri_vaquero_/status/1250537093991927811). I'm very active in social networks because I'd like to be up to date in everything related to Data Science and Technology. I'm a little bit nerdy! :D
 
