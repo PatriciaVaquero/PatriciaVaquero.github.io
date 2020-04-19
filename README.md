@@ -1,4 +1,13 @@
-## Welcome to GitHub WebPages
+## Welcome to my Project website!
+
+First of all, let me introduce myself briefly. 
+
+ABOUT ME
+
+Graduated in Business Management (with the Area of Specialization in Data Analytics) and oriented to the Business Analytics area. With the desire to not stop learning and with the aim of focusing my professional future in the area of DDDM (Data-Driven Decision Making), the data analysis in charge of converting the data set into key information for innovation and decision making in a dynamic environment, as it is today for any company, marked by the need for an integral vision of the business in order to always keep up with the constant opportunities required by the era of Digital Transformation.
+
+Especially interested in all the areas in charge of this transformation process BBDD -> Information -> Decisions: Data Science, Business Intelligence & Analytics, Machine Learning, Predictive Modelling, etc.
+
 
 You can use the [editor on GitHub](https://github.com/PatriciaVaquero/PatriciaVaquero.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
