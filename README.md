@@ -20,8 +20,5 @@ Do not hesitate to contact me! :)
 
 ATTITUDE IS THE KEY TO SUCCESS! 
 
-![Data Ninja][Father]
 
-[Father]: https://github.com/PatriciaVaquero/website/data_ninja.png
-
-![Esta es una imagen de ejemplo](https://www.google.com/search?q=data+ninja&sxsrf=ALeKk01r7O07tb4aRvENIXl8EsvW9gd6zg:1587321332014&source=lnms&tbm=isch&sa=X&ved=2ahUKEwj2_43hkPXoAhVR6uAKHfFsCM8Q_AUoAXoECAsQAw&biw=1280&bih=610#imgrc=uHJ-eHPKPF-InM)
+[^1]: Patricia Rodríguez Vaquero copyright-©
