@@ -27,7 +27,6 @@ Do not hesitate to contact me! :)
 
 [Linkedin](https://www.linkedin.com/in/patricia-rodr%C3%ADguez-vaquero-53425311a/)
 
-ATTITUDE IS THE KEY TO SUCCESS! 
-
+> If you can dream it you can do it - Walt Disney.
 
 [^1]: © copyright Patricia Rodríguez Vaquero ESPAÑA 2020
