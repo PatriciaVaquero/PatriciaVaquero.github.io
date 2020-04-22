@@ -43,6 +43,8 @@ Do not hesitate to contact me!
 [Linkedin](https://www.linkedin.com/in/patricia-rodr%C3%ADguez-vaquero-53425311a/)
 
 
+[^1]: [Download CV](https://github.com/PatriciaVaquero/website/blob/master/CV_Rodr%C3%ADguez%20Vaquero%20Patricia.pdf)
+
 ```
-[^1]: © copyright Patricia Rodríguez Vaquero ESPAÑA 2020
+© copyright Patricia Rodríguez Vaquero ESPAÑA 2020
 ```
