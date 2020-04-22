@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# **Welcome to my Project website!**
+# **Welcome to my Website Project!**
 
 _ABOUT ME_ [^1]
 
