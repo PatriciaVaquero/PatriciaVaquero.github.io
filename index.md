@@ -2,10 +2,6 @@
 layout: default
 ---
 
-
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
 # **Welcome to my Project website!**
 
 _ABOUT ME_ [^1]
@@ -34,8 +30,11 @@ ATTITUDE IS THE KEY TO SUCCESS!
 
 Wanna know more about me? 
 
-Do not hesitate to contact me! :)
+Do not hesitate to contact me! 
 
+![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+
+* * *
 
 **You can reach me on:**
 
