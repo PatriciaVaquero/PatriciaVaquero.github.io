@@ -4,8 +4,7 @@ layout: default
 
 # **Welcome to my Website Project!**
 
-![data_ninja](https://www.google.com/search?q=data+ninja&sxsrf=ALeKk03iKGcw9QeIl4Sw0K6sje7lUxBOuA:1587593096274&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjyi7SUhf3oAhWTAGMBHWJMAx0Q_AUoAXoECAsQAw&biw=1280&bih=610#imgrc=uHJ-eHPKPF-InM
-)
+![data_ninja](https://github.com/PatriciaVaquero/website/blob/master/assets/images/data_ninja.png)
 
 
 _ABOUT ME_[^1]
