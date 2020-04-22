@@ -4,7 +4,7 @@ layout: default
 
 # **Welcome to my Website Project!**
 
-![erasmus](assets/images/IMG-20190209-WA0057.jpg =24x48)
+![data_ninja](assets/images/data_ninja.png)
 
 
 _ABOUT ME_[^1]
