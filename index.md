@@ -4,7 +4,7 @@ layout: default
 
 # **Welcome to my Website Project!**
 
-![data_ninja](https://github.com/PatriciaVaquero/website/blob/master/assets/images/data_ninja.png)
+![erasmus](https://github.com/PatriciaVaquero/website/blob/master/assets/images/IMG-20190209-WA0057.jpg)
 
 
 _ABOUT ME_[^1]
