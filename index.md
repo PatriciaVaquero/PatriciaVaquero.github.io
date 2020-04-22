@@ -4,7 +4,7 @@ layout: default
 
 # **Welcome to my Website Project!**
 
-![erasmus](assets/images/IMG-20190209-WA0057.jpg =24x48))
+![erasmus](assets/images/IMG-20190209-WA0057.jpg =24x48)
 
 
 _ABOUT ME_[^1]
@@ -49,7 +49,6 @@ Do not hesitate to contact me!
 [Click here](./another-page.html).
 
 [^1]: [Download CV](https://github.com/PatriciaVaquero/website/blob/master/CV_Rodr%C3%ADguez%20Vaquero%20Patricia.pdf)
-
 
 ```
 © copyright Patricia Rodríguez Vaquero ESPAÑA 2020
