@@ -43,4 +43,6 @@ Do not hesitate to contact me!
 [Linkedin](https://www.linkedin.com/in/patricia-rodr%C3%ADguez-vaquero-53425311a/)
 
 
+```
 [^1]: © copyright Patricia Rodríguez Vaquero ESPAÑA 2020
+```
