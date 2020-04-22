@@ -4,7 +4,7 @@ layout: default
 
 # **Welcome to my Website Project!**
 
-![erasmus](https://github.com/PatriciaVaquero/website/blob/master/assets/images/IMG-20190209-WA0057.jpg)
+![erasmus](assets/images/IMG-20190209-WA0057.jpg)
 
 
 _ABOUT ME_[^1]
