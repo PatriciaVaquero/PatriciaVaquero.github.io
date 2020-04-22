@@ -4,7 +4,7 @@ layout: default
 
 # **Welcome to my Website Project!**
 
-_ABOUT ME_ [^1]
+_ABOUT ME_[^1]
 
 Hello everyone out there! I'm Patricia Rodríguez Vaquero. I'm currently doing a Postgraduate Course about Big Data & Analytics at
 Universidad Carlos III of Madrid. While studying for my studies I'm also doing an internship as a Business Intelligence Analyst in
