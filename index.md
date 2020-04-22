@@ -48,8 +48,9 @@ Do not hesitate to contact me!
 
 [Click here](./another-page.html).
 
-[^1]: [Download CV](https://github.com/PatriciaVaquero/website/blob/master/CV_Rodr%C3%ADguez%20Vaquero%20Patricia.pdf)
 
 ```
 © copyright Patricia Rodríguez Vaquero ESPAÑA 2020
 ```
+
+[^1]: [Download CV](https://github.com/PatriciaVaquero/website/blob/master/CV_Rodr%C3%ADguez%20Vaquero%20Patricia.pdf)
