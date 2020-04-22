@@ -4,6 +4,8 @@ layout: default
 
 # **Welcome to my Website Project!**
 
+![data_ninja](https://github.com/PatriciaVaquero/website/blob/master/data_ninja.png)
+
 
 _ABOUT ME_[^1]
 
