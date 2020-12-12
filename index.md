@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # **Welcome to my Website Project!**
 
 ![data_ninja](assets/images/data_ninja.png)
